@@ -4,8 +4,6 @@ namespace BattleWars.NewFolder
 {
     public class StartManager : IStartManager
     {
-        //Rebelles et Empire
-
         public void StartMessage()
         {
             Console.ForegroundColor = ConsoleColor.Green;
